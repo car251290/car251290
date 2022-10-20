@@ -5,7 +5,7 @@
 - 📫 How to reach me using my email @ carrenojavier015@gmail.com
 
 Top Technologies
-## React  ## Javascript  ## Typescript ## Nodejs Badge GraphQL Badge
+## React ## Javascript ## Typescript ## Nodejs ## GraphQL
 
 
 <!---
