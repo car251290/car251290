@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects as a Full Stack
 - 📫 How to reach me using my email @ carrenojavier015@gmail.com
 
-Top Technologies: 
+Top Technologies: 👨‍💻 💻
 ## React, Javascript, C# ,Nodejs, GraphQL, MongoDB
 
 
