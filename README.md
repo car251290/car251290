@@ -5,7 +5,7 @@
 - 📫 How to reach me using my email @ carrenojavier015@gmail.com
 
 Top Technologies: 👨‍💻 💻
-## React, Javascript, C# ,Nodejs, GraphQL, MongoDB
+## React, Javascript, C# ,Nodejs, GraphQL, MongoDB,HTML & CSS
 
 
 <!---
