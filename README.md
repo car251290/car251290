@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @car251290
-- 👀 I’m interested in Back end and Front End
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in Back end and Front End(FullStack developer)
+- 🌱 I’m currently working new projects and learning new technologies
 - 💞️ I’m looking to collaborate on new projects as a Full Stack
 - 📫 How to reach me using my email @ carrenojavier015@gmail.com
 
 Top Technologies: 👨‍💻 💻
-## React, Javascript, C# ,Nodejs, GraphQL, MongoDB,HTML & CSS
+## React, Javascript, C# ,Nodejs, TypeScript,GraphQL, MongoDB,HTML & CSS
 
 
 <!---
