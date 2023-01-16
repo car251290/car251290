@@ -7,7 +7,7 @@
 Top Technologies: 👨‍💻 💻
 ## React, Javascript, C# ,Nodejs, TypeScript,GraphQL, MongoDB,HTML & CSS
 
-Clouds:
+Cloud:
 ## Mongodb , Azure, AWS
 
 <!---
