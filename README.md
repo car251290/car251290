@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @car251290
 - 👀 I’m interested in Back end and Front End(FullStack developer)
-- 🌱 I’m currently working new projects and learning new technologies
+- 🌱 I’m currently working on projects and learning new technologies
 - 💞️ I’m looking to collaborate on new projects as a Full Stack
 - 📫 How to reach me using my email @ carrenojavier015@gmail.com
 
