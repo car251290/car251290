@@ -3,12 +3,13 @@
 - 🌱 I’m currently working on projects and learning new technologies
 - 💞️ I’m looking to collaborate on new projects as a Full Stack
 - 📫 How to reach me using my email @carrenojavier015@gmail.com
+- 🍺 I like the social Fridays with my family, it is great after Work.
 
 Top Technologies: 👨‍💻 💻
 ## React, Javascript, C# ,Nodejs, TypeScript,GraphQL, MongoDB,HTML & CSS
 
 Cloud:
-## MongoDB , Azure, AWS
+## MongoDB , Azure, AWS,Google Cloud
 
 <!---
 car251290/car251290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
