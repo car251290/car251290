@@ -9,7 +9,7 @@ Top Technologies: 👨‍💻 💻
 ## React, Javascript, C# ,Nodejs, TypeScript,GraphQL, MongoDB,HTML & CSS
 
 Cloud:
-## MongoDB , Azure, AWS,Google Cloud
+## MongoDB , Azure, AWS, Google Cloud
 
 <!---
 car251290/car251290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
