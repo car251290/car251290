@@ -5,19 +5,21 @@
 - 📫 How to reach me using my email @carrenojavier015@gmail.com
 - 🍺 I like the social Fridays with my family, it is great after Work.
 
-Top Technologies: 👨‍💻 💻
-## React, 
+# Top Technologies: 👨‍💻 💻
+<br>React</br> 
 <br>Javascript</br>
 <br>C#</br>
-Nodejs,
-TypeScript,
-GraphQL, 
-MongoDB,
-HTML 
-& CSS
+<br> Nodejs </br>
+<br>TypeScript</br>
+<br>GraphQL</br>
+<br>MongoDB</br>
+<br>HTML& CSS</br>
 
-Cloud:
-## MongoDB , Azure, AWS, Google Cloud
+# Cloud:
+<br>MongoDB</br> 
+<br>Azure</br> 
+<br>AWS</br>
+<br>Google Cloud</br>
 
 <!---
 car251290/car251290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
