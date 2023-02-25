@@ -8,7 +8,7 @@
 Top Technologies: 👨‍💻 💻
 ## React, 
 <br>Javascript</br>
-C# ,
+<brC#</br>
 Nodejs,
 TypeScript,
 GraphQL, 
