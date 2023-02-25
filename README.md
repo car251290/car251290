@@ -6,7 +6,15 @@
 - 🍺 I like the social Fridays with my family, it is great after Work.
 
 Top Technologies: 👨‍💻 💻
-## React, Javascript, C# ,Nodejs, TypeScript,GraphQL, MongoDB,HTML & CSS
+## React, 
+<br>Javascript</br>
+C# ,
+Nodejs,
+TypeScript,
+GraphQL, 
+MongoDB,
+HTML 
+& CSS
 
 Cloud:
 ## MongoDB , Azure, AWS, Google Cloud
