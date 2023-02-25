@@ -5,11 +5,11 @@
 - 📫 How to reach me using my email @carrenojavier015@gmail.com
 - 🍺 I like the social Fridays with my family, it is great after Work.
 
-
- <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
+<div>
+ <li> <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png"> </l1>
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
  <img style="width: 25%;height:25%;" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
- 
+ </div>
  # Top Technologies: 👨‍💻 💻
 - React
 - Javascript
