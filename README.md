@@ -6,7 +6,7 @@
 - 🍺 I like the social Fridays with my family, it is great after Work.
 
 # Top Technologies: 👨‍💻 💻
-- React 
+- React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Flowers in Chania">
 - Javascript
 - C#
 - Nodejs
