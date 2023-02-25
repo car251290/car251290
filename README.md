@@ -10,15 +10,16 @@
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
  <img style="width: 15%;height:15%;" src="https://static.cdnlogo.com/logos/c/27/c.svg"> 
  </div>
+ 
  # Top Technologies: 👨‍💻 💻
-- React
-- Javascript
-- C#
-- Nodejs
-- TypeScript
-- GraphQL
-- MongoDB
-- HTML & CSS
+ 
+<l1> React</li>
+<l1> JavaScript</li>
+<l1> C#</li>
+<l1> Node.js</li>
+<l1> TypeScript</li>
+<l1> GraphQL</li>
+<l1>HTML & CSS </li>
 
 # Cloud:
 - MongoDB 
