@@ -6,7 +6,7 @@
 - 🍺 I like the social Fridays with my family, it is great after Work.
 
 # Top Technologies: 👨‍💻 💻
- <img style="width: 25%;height:25%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
+ <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
  
 - React
 - Javascript
