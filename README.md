@@ -7,8 +7,8 @@
 
 <div>
  <li> <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png"> </l1>
- <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
- <img style="width: 25%;height:25%;" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
+ <li> <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> </li>
+<li> <img style="width: 50%;height:50%;" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"> </li>
  </div>
  # Top Technologies: 👨‍💻 💻
 - React
