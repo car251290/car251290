@@ -13,13 +13,13 @@
  
  # Top Technologies: 👨‍💻 💻
  
-<l1> React</li>
-<l1> JavaScript</li>
-<l1> C#</li>
-<l1> Node.js</li>
-<l1> TypeScript</li>
-<l1> GraphQL</li>
-<l1>HTML & CSS </li>
+<li> React</li>
+<li> JavaScript</li>
+<li> C#</li>
+<li> Node.js</li>
+<li> TypeScript</li>
+<li> GraphQL</li>
+<li>HTML & CSS </li>
 
 # Cloud:
 - MongoDB 
