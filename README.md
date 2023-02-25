@@ -6,20 +6,20 @@
 - 🍺 I like the social Fridays with my family, it is great after Work.
 
 # Top Technologies: 👨‍💻 💻
-<br>React</br> 
-<br>Javascript</br>
-<br>C#</br>
-<br> Nodejs </br>
-<br>TypeScript</br>
-<br>GraphQL</br>
-<br>MongoDB</br>
-<br>HTML& CSS</br>
+- React 
+- Javascript
+- C#
+- Nodejs
+- TypeScript
+- GraphQL
+- MongoDB
+- HTML & CSS
 
 # Cloud:
-<br>MongoDB</br> 
-<br>Azure</br> 
-<br>AWS</br>
-<br>Google Cloud</br>
+- MongoDB 
+- Azure 
+- AWS
+- Google Cloud
 
 <!---
 car251290/car251290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
