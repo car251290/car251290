@@ -26,7 +26,7 @@
 <div>
  <img style="width: 15%;height:15%;" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"> 
  <img style="width: 15%;height:15%;" src="https://swimburger.net/media/ppnn3pcl/azure.png"> 
- <img style="width: 15%;height:15%;" src="https://www.seekpng.com/png/detail/117-1177155_mongodb-logo-mongodb-logo-transparent.png"> 
+ <img style="width: 15%;height:15%;" src="https://e7.pngegg.com/pngimages/836/126/png-clipart-mongodb-inc-database-scalability-business-text-people.png"> 
  </div>
  
 # Cloud:
