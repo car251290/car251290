@@ -10,7 +10,7 @@
 <li> React</li>
 <li> JavaScript</li>
 <li> C#</li>
-<li> Node.js</li>
+<li> Node </li>
 <li> TypeScript</li>
 <li> GraphQL</li>
 <li>HTML & CSS </li>
