@@ -21,9 +21,13 @@
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
  <img style="width: 15%;height:15%;" src="https://static.cdnlogo.com/logos/c/27/c.svg"> 
   <img style="width: 15%;height:15%;" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png"> 
- <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> 
+
  
  </div>
+ # Learning technologies 
+ 
+ <img style ="width:15% height:15% src="https://www.educative.io/v2api/editorpage/6452289848475648/image/5294398307303424">
+ <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> 
  
  # Cloud:
 - MongoDB 
