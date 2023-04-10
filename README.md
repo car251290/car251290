@@ -27,7 +27,7 @@
  
  # Currently learning in 2023
  
- <img style ="width:15%; height:15%;" src="https://www.educative.io/v2api/editorpage/6452289848475648/image/5294398307303424">
+ <img style ="width:15%; height:25%;" src="https://www.educative.io/v2api/editorpage/6452289848475648/image/5294398307303424">
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> 
  
  # Cloud:
