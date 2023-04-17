@@ -28,7 +28,7 @@
  <li> TypeScript</li>
  <li> Next.js </li>
  <div>
- <img style ="width:15%; height:30%;" src="https://blog.logrocket.com/wp-content/uploads/2020/11/next-js-vs-react-developer-experience.png">
+ <img style ="width:15%; height:30%;" src="https://pathfortune.com/wp-content/uploads/2022/05/Rlogical-Blog-Images-thumbnail-1.png">
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> 
  </div>
  
