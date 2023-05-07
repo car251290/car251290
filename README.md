@@ -5,6 +5,9 @@
 - 📫 How to reach me using my email @carrenojavier015@gmail.com
 - 🍺 I like the social Fridays with my family, it is great after Work.
 
+# Summary
+Web developer with 5+ years of experience in developing and maintaining web applications. Skilled in HTML, CSS, JavaScript, React, Bootstrap, and Python. Proven ability to create effective web applications that help businesses achieve their goals.
+
  # Top Technologies: 👨‍💻 💻
  
 <li> React</li>
