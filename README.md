@@ -15,6 +15,7 @@ Web developer with 5+ years of experience in developing and maintaining web appl
 <li> C#</li>
 <li> Node </li>
 <li> GraphQL</li>
+<li> SQL </li>
 <li>HTML & CSS </li>
 
 
