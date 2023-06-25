@@ -25,9 +25,8 @@ Web developer with 5+ years of experience in developing and maintaining web appl
  <img style="width: 15%;height:15%;" src="https://static.cdnlogo.com/logos/c/27/c.svg"> 
  <img style="width: 15%;height:15%;" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png"> 
  <img style=width:50%;height:50% src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png">
- <img style=width:20%;height:20%  src="https://www.tutorialsteacher.com/Content/images/home/sql.png">
  </div>
- 
+  <img style=width:20%;height:20%  src="https://www.tutorialsteacher.com/Content/images/home/sql.png">
  # Currently learning in 2023
  <li> TypeScript</li>
  <li> Next.js </li>
