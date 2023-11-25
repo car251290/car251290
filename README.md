@@ -28,6 +28,7 @@ Web developer with 5+ years of experience in developing and maintaining web appl
  </div>
   <img style=width:20%;height:20%  src="https://www.tutorialsteacher.com/Content/images/home/sql.png">
  # Technologies 2023
+ 
  <li> TypeScript</li>
  <li> Nextjs</li>
  <div>
@@ -36,6 +37,7 @@ Web developer with 5+ years of experience in developing and maintaining web appl
  </div>
  
  # Cloud:
+ 
 - MongoDB 
 - Azure 
 - AWS
