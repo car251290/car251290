@@ -41,7 +41,7 @@ Web developer with 5+ years of experience in developing and maintaining web appl
 - MongoDB 
 - Azure 
 - AWS
-
+- Google cloud
 <div>
  <img style="width: 15%;height:15%;" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"> 
  <img style="width: 15%;height:15%;" src="https://swimburger.net/media/ppnn3pcl/azure.png"> 
