@@ -8,7 +8,7 @@
 # Summary
 Web developer with 5+ years of experience in developing and maintaining web applications. Skilled in HTML, CSS, JavaScript, React, Bootstrap, and Python. Proven ability to create effective web applications that help businesses achieve their goals.
 
- # Top Technologies: 👨‍💻 💻
+ # Top code language: 👨‍💻 💻
  
 <li> React</li>
 <li> JavaScript</li>
@@ -27,7 +27,7 @@ Web developer with 5+ years of experience in developing and maintaining web appl
  <img style=width:50%;height:50% src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png">
  </div>
   <img style=width:20%;height:20%  src="https://www.tutorialsteacher.com/Content/images/home/sql.png">
- # Technologies 2023
+ # Learning 2023
  
  <li> TypeScript</li>
  <li> Nextjs</li>
@@ -41,7 +41,6 @@ Web developer with 5+ years of experience in developing and maintaining web appl
 - MongoDB 
 - Azure 
 - AWS
-- Google Cloud
 
 <div>
  <img style="width: 15%;height:15%;" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"> 
