@@ -1,4 +1,4 @@
-- 👋 Hi, Javier Carreno
+- 👋 Hi,my name is Javier Carreno
 - 👀 I’m interested in Back end and Front End(FullStack developer)
 - 🌱 Currently working on projects and learning new technologies for example Next, TypeScript
 - 💞️ I’m looking to collaborate on new projects as a Full Stack
