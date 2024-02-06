@@ -27,10 +27,12 @@ Web developer with 5+ years of experience in developing and maintaining web appl
   <img style=width:15%;height:15%  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
  <img style="width: 10%;height:10%;" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png"> 
  <img style=width:15%;height:15% src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png">
- <img style=width:40%;height:40% src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">
-<img style=width:20%;height:20%  src="https://www.tutorialsteacher.com/Content/images/home/sql.png">
  </div>
-
+# DataBases using SQL 
+<div>
+  <img style=width:40%;height:40% src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">
+<img style=width:20%;height:20%  src="https://www.tutorialsteacher.com/Content/images/home/sql.png">
+</div>
  # Projects 2024
  
  <li> TypeScript</li>
