@@ -24,7 +24,6 @@ Web developer with 5+ years of experience in developing and maintaining web appl
  <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
  <img style="width: 15%;height:15%;" src="https://static.cdnlogo.com/logos/c/27/c.svg"> 
-  <img style=width:15%;height:15%  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
  <img style="width: 10%;height:10%;" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png"> 
  <img style=width:15%;height:15% src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png">
  </div>
@@ -46,6 +45,7 @@ Web developer with 5+ years of experience in developing and maintaining web appl
  <div>
  <img style ="width:15%; height:28%;" src="https://pathfortune.com/wp-content/uploads/2022/05/Rlogical-Blog-Images-thumbnail-1.png">
  <img style="width: 15%;height:16%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> 
+  <img style=width:15%;height:15%  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
  </div>
  
  # Cloud:
