@@ -30,8 +30,11 @@ Web developer with 5+ years of experience in developing and maintaining web appl
 
  
  # DataBase using SQL & MySQL
- <li> SQL</li>
+ <div>
+  <li> SQL</li>
 <li> MySQL</li>
+ </div>
+ 
 <div>
 <img style=width:40%;height:40% src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">
 <img style=width:15%;height:15%  src="https://www.tutorialsteacher.com/Content/images/home/sql.png">
