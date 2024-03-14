@@ -10,7 +10,7 @@ Web developer with 5+ years of experience in developing and maintaining web appl
 
  # Top code language: 👨‍💻 💻
  <div>
-  <li> React</li>
+ <li> React</li>
 <li> JavaScript</li>
 <li> C#</li>
 <li>  Python </li>
@@ -44,11 +44,12 @@ Web developer with 5+ years of experience in developing and maintaining web appl
 
  # Projects 2024
  <li> TypeScript</li>
- <li> Nextjs</li>
+
  <div>
   <div>
    <li>Python </li>
   </div>
+  <div> <li> Nextjs</li> </div>
  <img style ="width:15%; height:28%;" src="https://pathfortune.com/wp-content/uploads/2022/05/Rlogical-Blog-Images-thumbnail-1.png">
  <img style="width: 15%;height:16%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> 
   <img style=width:15%;height:15%  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
