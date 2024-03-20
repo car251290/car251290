@@ -8,7 +8,7 @@
 # Summary
 Web developer with 5+ years of experience in developing and maintaining web applications. Skilled in HTML, CSS, JavaScript, React, Bootstrap, and Python. Proven ability to create effective web applications that help businesses achieve their goals.
 
- # Top code language: 👨‍💻 💻
+ # Top code language: 👨‍💻
  <div>
  <li> React</li>
 <li> JavaScript</li>
