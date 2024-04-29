@@ -50,7 +50,7 @@ Web developer with 5+ years of experience in developing and maintaining web appl
    <li>Python </li>
   </div>
   <div> <li> Nextjs</li> </div>
-  <img style="width: 15%;height:16%;" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgorzelinski.com%2Fblog%2Fnext-js-overview-in-1000-words%2F&psig=AOvVaw1gFlqEav8jhTEX3ztIcM3G&ust=1714501363207000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODry8uF6IUDFQAAAAAdAAAAABAE![image](https://github.com/car251290/car251290/assets/35305955/6b1568aa-7169-4bcd-9ef0-5ffc785a4576">
+  <img style="width: 15%;height:16%;" src= "(https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs)">
  <img style="width: 15%;height:16%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> 
   <img style=width:15%;height:15%  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
  </div>
