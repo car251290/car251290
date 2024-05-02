@@ -3,7 +3,7 @@
 - 🌱 Currently working on projects and learning new technologies for example Next, TypeScript
 - 💞️ I’m looking to collaborate on new projects as a Full Stack
 - 📫 How to reach me using my email @carrenojavier015@gmail.com
-- 🍺 The social Fridays with my family, it is great after Work.
+- 🍺 The social Fridays with my family,great after Work.
 
 # Summary
 Web developer with 5+ years of experience in developing and maintaining web applications. Skilled in HTML, CSS, JavaScript, React, Bootstrap, and Python. Proven ability to create effective web applications that help businesses achieve their goals.
