@@ -33,7 +33,10 @@ Web developer with 5+ years of experience in developing and maintaining web appl
  # DataBase using SQL & MySQL
  <div>
   <li> SQL</li>
-<li> MySQL</li>
+  <div>
+   <li> MySQL</li>
+  </div>
+
  </div>
  
 <div>
