@@ -6,7 +6,7 @@
 - 🍺 The social Fridays with my family, are great after Work.
 
 # Summary
-Web developer with 5+ years of experience in developing and maintaining web applications. Skilled in HTML, CSS, JavaScript, React, Bootstrap, and Python. Proven ability to create effective web applications that help businesses achieve their goals.
+Web developer with 6+ years of experience in developing and maintaining Web applications. Skilled in HTML, CSS, JavaScript, React, Bootstrap, and Python. ability to create effective web applications that help businesses achieve their goals.
 
  # Top code language: 👨‍💻
  <div>
