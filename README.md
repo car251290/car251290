@@ -1,8 +1,8 @@
 - 👋 Hi,my name is Javier Carreno
 - 👀 I’m interested in Back-End and Front-End(FullStack developer)
 - 🌱 Currently working on projects and learning new technologies for example Next, TypeScript
-- 💞️ I’m looking to collaborate on new projects as a Full Stack
-- 📫 How to reach me using my email @carrenojavier015@gmail.com
+- 💞️ I’m looking to collaborate on new projects as a Full Stack working with Python and SQL
+- 📫 How to reach me using email @carrenojavier015@gmail.com
 - 🍺 The social Fridays with my family, are great after Work.
 
 # Summary
