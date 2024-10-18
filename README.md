@@ -72,8 +72,7 @@
  </div>
  API Platform: 
  <div>
-  <img style="width:15%; height:15% src="![image](https://github.com/user-attachments/assets/7a3e8ac1-c513-46bb-a152-5ede53a26462)
-">
+  <img style="width:15%; height:15% src="https://mms.businesswire.com/media/20230322005274/en/761650/23/postman-logo-vert-2018.jpg">
  </div>
 <!---
 car251290/car251290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
