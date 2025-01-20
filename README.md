@@ -43,7 +43,7 @@
  
 <div>
 <img style=width:40%;height:40% src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">
-<img style=width:15%;height:15%  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techmonitor.ai%2Fwhat-is%2Fwhat-is-sql-4932975%2F&psig=AOvVaw1sOe3-NKrNvFXtNIQQwGl5&ust=1737484037856000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD7tsn2hIsDFQAAAAAdAAAAABAE">
+<img style=width:15%;height:15%  src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png">
 </div>
 
 
